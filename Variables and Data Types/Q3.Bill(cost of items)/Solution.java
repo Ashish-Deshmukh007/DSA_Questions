@@ -9,6 +9,6 @@ public class Solution{
     System.out.println("Enter cost of the eraser:");
     eraser=sc.nextFloat();
     Float bill= (pencil+pen+eraser);
-    System.out.println("Total cost is:"+bill)
+    System.out.println("Total cost is:"+bill);
   }
 }
